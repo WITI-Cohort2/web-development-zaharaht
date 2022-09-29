@@ -1,0 +1,31 @@
+.web {
+  background-color: brown;
+  border: 3px solid black;
+  padding: 30px;
+  margin-left: 40px;
+}
+.design {
+  background-color: blue;
+  border: 5px solid red;
+  padding: 5px;
+  margin-right: 50px;
+}
+.fundamentals {
+  background-color: green;
+  border: 5px solid white;
+  padding: 10px;
+  margin-right: 50px;
+}
+.like {
+  background-color: purple;
+  border: 5px solid green;
+  padding: 70px;
+  margin-right: 50px;
+}
+
+.abt {
+  background-color: blueviolet;
+  border: 2px solid black;
+  padding: 20px;
+  margin-right: 50px;
+}
